@@ -1,0 +1,4 @@
+"Rule: ocaml dependencies ml (%=lab8 )": "\027\1724@\200!\030\209\177\179\026:\181\185|\163"
+"Resource: /Users/michellegao/lab8-michgao87/lab8.ml": "!\212\206\195\231O|/\240\238\182\156\249\219\026\199"
+"Rule: ocaml: ml -> cmo & cmi (%=lab8 )": "5a>3\160H\129\179\220E\165\202\209\248\\8"
+"Rule: ocaml: cmo* -> byte (%=lab8 )": "\235;P\019X\006VL\"{\176\233F\228\224&"

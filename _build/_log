@@ -1,0 +1,11 @@
+### Starting build.
+# Target: lab8.ml.depends, tags: { warn(A-4-33-40-41-42-43-34-44), extension:ml, file:lab8.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_unix }
+/Users/michellegao/.opam/4.06.0/bin/ocamldep.opt -modules lab8.ml > lab8.ml.depends
+# Target: lab8.cmo, tags: { warn(A-4-33-40-41-42-43-34-44), byte, compile, extension:cmo, extension:ml, file:lab8.cmo, file:lab8.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_unix }
+/Users/michellegao/.opam/4.06.0/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o lab8.cmo lab8.ml
++ /Users/michellegao/.opam/4.06.0/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o lab8.cmo lab8.ml
+File "lab8.ml", line 218, characters 4-11:
+Error: The type of this expression, '_weak1 WEvent.event,
+       contains type variables that cannot be generalized
+Command exited with code 2.
+# Compilation unsuccessful.
